@@ -1,0 +1,1 @@
+ARROW KEYS: Move player        WASD: Move ghost pawn        SPACE: Next Turn         BACKSPACE: Reset
