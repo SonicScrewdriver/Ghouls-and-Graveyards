@@ -14,3 +14,7 @@ to do:
 2 player game
 
 2nd difficulty level (with doors)
+
+Actual graphics and sounds
+
+Possibility to view the entire map at game end
