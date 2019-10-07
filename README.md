@@ -3,7 +3,7 @@ This is a Flash recreation coded by Alan Monroe (JavaJack on boardgamegeek) of t
 
 You can find more on: https://boardgamegeek.com/boardgame/4746/dungeons-dragons-computer-labyrinth-game
 
-As per v0.32 the game features 1 player game at level 1, sounds, movable ghost pawn, lifes, exact ghost/hero behaviours and random map generation according to the official rules.
+As per v0.32 the game features 1 player game at level 1, sounds, moveable ghost pawn, lives, exact ghost/hero behaviours and random map generation according to the official rules.
 
 Feel free to contribute.
 
@@ -30,3 +30,5 @@ Actual graphics and sounds
 Possibility to view the entire map at game end
 
 When ghost attacks or you step into his square you are instantly teleported to your home base and then the sound "ghost attacks" plays. Should be the other way around.
+
+Ghost placed at exact position on the grid when an attack occurs
