@@ -7,10 +7,10 @@ As per v0.32 the game features 1 player game at level 1, sounds, moveable ghost 
 Feel free to contribute.
 
 History:
-0.25 - Initial Release
-0.26 - Ghost no longer kills you on your home base. Step counter is now correct for your second and third lives. Keyboard control. Up, down, left, right to move. Space to end turn. Backspace to reset.
-0.31 - Selectable voices. Stone floor graphics. Ghost now retreats to treasure room if you end your turn on your base.
-0.32 - A moveable ghost pawn to help you estimate the ghost's position. Key shortcut summary.
+- 0.25: Initial Release
+- 0.26: Ghost no longer kills you on your home base. Step counter is now correct for your second and third lives. Keyboard control. Up, down, left, right to move. Space to end turn. Backspace to reset.
+- 0.31: Selectable voices. Stone floor graphics. Ghost now retreats to treasure room if you end your turn on your base.
+- 0.32: A moveable ghost pawn to help you estimate the ghost's position. Key shortcut summary.
 
 
 To do:
