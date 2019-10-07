@@ -19,9 +19,10 @@ History:
 
 
 
+
 to do:
 
-2 player game
+2 players game
 
 2nd difficulty level (with doors)
 
