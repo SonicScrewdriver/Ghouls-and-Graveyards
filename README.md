@@ -9,6 +9,7 @@ Feel free to contribute.
 History:
 - 0.25: Initial Release
 - 0.26: Ghost no longer kills you on your home base. Step counter is now correct for your second and third lives. Keyboard control. Up, down, left, right to move. Space to end turn. Backspace to reset.
+- 0.29: Selectable voices. Visible display of speech. Ghost now retreats in the direction of treasure room if you end turn in your base. Next turn button is correctly ignored if the game is not in-progress. Game should not prematurely end if you're killed in the treasure room (please test this). Updated Help and About screens.
 - 0.31: Selectable voices. Stone floor graphics. Ghost now retreats to treasure room if you end your turn on your base.
 - 0.32: A moveable ghost pawn to help you estimate the ghost's position. Key shortcut summary.
 
