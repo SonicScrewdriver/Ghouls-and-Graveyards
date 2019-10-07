@@ -33,3 +33,6 @@ Possibility to view the entire map at game end
 When ghost attacks or you step into his square you are instantly teleported to your home base and then the sound "ghost attacks" plays. Should be the other way around.
 
 Ghost placed at exact position on the grid when an attack occurs
+
+The treasure room should have at least two open paths.
+
